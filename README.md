@@ -1,4 +1,6 @@
 # dotfiles
 my personal dotfiles
 
-clone and run .setup.sh to create symlinks
+1. clone
+2. chmod +x ~/dotfiles/setup.sh
+3. run .setup.sh
